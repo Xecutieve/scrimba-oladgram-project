@@ -15,13 +15,15 @@ img {
 
 h1 {
     font-size: 13px;
-    margin-top: 0xp;
+    margin-top: 0px;
     margin-bottom: 2px;
 }
 
 p {
     font-size: 12px;
     margin-top: 2px;
+    margin-right: auto;
+    margin-bottom: auto;
 }
 
 .container {
